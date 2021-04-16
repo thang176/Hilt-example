@@ -1,0 +1,4 @@
+include ':data'
+include ':data'
+include ':app'
+rootProject.name = "Ex Coroutine"
